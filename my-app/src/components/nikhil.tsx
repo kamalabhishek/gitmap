@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Nikhil = () => {
   return (
-    <div>Nikhil</div>
+    <div>Nikhil Chandra</div>
   )
 }
 
